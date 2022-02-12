@@ -1,0 +1,2 @@
+use command for execution:
+    node main.js --interactive
